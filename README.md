@@ -1,8 +1,36 @@
-# React + Vite
+# Testimonials Slider
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Testimonials Slider built with React, React Icons, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive Testimonials Slider
+- Easy customization with Tailwind CSS
+- Utilizes React Icons for additional styling
+- Simple and clean code structure
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/AbhishekNavgan95/Testimonials-Slider.git
+
+2. navigate to the repository:
+   ```bash
+   cd Testimonials-Slider
+   
+3. Install dependencies:
+   ```bash
+   npm install
+   
+4. To run the project locally:
+   ```bash
+   npm run dev
+
+### Build
+
+1. To build the project for production:
+
+   ```bash
+   npm run build
